@@ -29,9 +29,9 @@ It exists solely to host **public, versioned build artifacts** used by the Sypos
 Each GitHub Release corresponds to a Sypos version:
 
 vX.Y.Z
-├─ Sypos-X.Y.Z-arm64.dmg
-├─ Sypos-X.Y.Z-x64.exe
-└─ (other platform artifacts)
+* Sypos-X.Y.Z-arm64.dmg
+* Sypos-X.Y.Z-x64.exe
+* (other platform artifacts)
 
 Release assets are referenced by the Sypos update manifest and downloaded directly by client applications.
 
