@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "latest": "1.0.1",
-  "minSupported": "0.9.9",
+  "minSupported": "1.0.0",
   "killSwitch": false,
   "updatePolicy": "optional",
   "rollout": { "percentage": 100 },
@@ -13,9 +13,9 @@
     "win-x64": {
       "artifact": {
         "type": "zip",
-        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-build-104/sypos-win32-x64.zip",
-        "size": 166364665,
-        "sha256": "b972f171838f9b70572857d97146d8f04db8a899882067185665608433584e51"
+        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-build-106/sypos-win32-x64.zip",
+        "size": 166364725,
+        "sha256": "802ff65fb4ede19666a3e269cae1a101ddc414ff79e65329caf9c53210f5d3a7"
       }
     }
   }
