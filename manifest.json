@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "latest": "1.0.0",
+  "minSupported": "0.9.9",
+  "killSwitch": false,
+  "updatePolicy": "optional",
+  "rollout": { "percentage": 100 },
+  "message": {
+    "title": "Update Available",
+    "body": "A newer version of Sypos is available."
+  },
+  "platforms": {
+    "win-x64": {
+      "artifact": {
+        "type": "zip",
+        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-build-95/sypos-win32-x64.zip",
+        "size": 165875309,
+        "sha256": "2eea305719651dcb703c1beedf2697a9af7890dae46fa159c2e0f43102635c5a"
+      }
+    }
+  }
+}
