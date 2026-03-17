@@ -13,9 +13,9 @@
     "win-x64": {
       "artifact": {
         "type": "zip",
-        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-build-110/sypos-win32-x64.zip",
-        "size": 166364682,
-        "sha256": "56060f0a92cd8595c28184f29ea46aa0af9ef195aa8edf3735d4e4dd4fae0c27"
+        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-build-112/sypos-win32-x64.zip",
+        "size": 166364699,
+        "sha256": "fb073945c167ab15d3b3d154841052f702972ea5936abde2e15c2d850a4d2f00"
       }
     }
   }
