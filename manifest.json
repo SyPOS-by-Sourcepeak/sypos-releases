@@ -13,9 +13,9 @@
     "win-x64": {
       "artifact": {
         "type": "nsis",
-        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-build-126/Sypos-Setup-1.0.1.exe",
-        "size": 116995919,
-        "sha256": "890fb95f87e991898b81092763cd74c820f2b8310208bf98458df2fe52f2218f"
+        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-build-128/Sypos-Setup-1.0.1.exe",
+        "size": 116995857,
+        "sha256": "3282419aa647d1b2beb6f7a1aa376e8d1c9045c964441f288ee6df6c6b9e54cf"
       }
     }
   }
