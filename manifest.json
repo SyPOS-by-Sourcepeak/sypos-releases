@@ -13,7 +13,7 @@
     "win-x64": {
       "artifact": {
         "type": "nsis",
-        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-build-133/Sypos-Setup-1.0.6.exe",
+        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-build-133/Sypos-Setup-1.0.0.exe",
         "size": 116994766,
         "sha256": "49082ff1f9fda47ba7b8b34ec55a340ca9192e6475027928cf558d5f33f63018"
       }
