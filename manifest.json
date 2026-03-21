@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "latest": "1.0.6",
+  "latest": "1.0.0",
   "minSupported": "1.0.0",
   "killSwitch": false,
   "updatePolicy": "optional",
